@@ -13,4 +13,4 @@ A simple Python script that allows a user to input drinks and their prices, calc
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/JJILU/PYTHON_BAR_TAB_MINI_PROJECT>
