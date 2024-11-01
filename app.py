@@ -63,7 +63,7 @@ def main():
     print(drinks)
 
     if not drinks:
-        print("No drinks added. Exiting  Program")
+        print("No drinks added. Exiting Program")
         return
     
     # calculate the totals (total, tip, grand_total)
